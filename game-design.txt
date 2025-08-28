@@ -14,6 +14,7 @@ los jugadores conceptos clave de historia.
 El jugador podrá [MECÁNICA 1], para avanzar deberá [MECÁNICA 2] y los desafíos
 incluirán [TIPO DE DESAFÍOS]
 
-Los estudiantes avanzarán mediante [SISTEMA]. Cada nivel representa [CONCEPTO
-EDUCATIVO], y los jugadores recibirán retroalimentación inmediata sobre su
-desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
+El juego se desarrollará usando Unity y tendrá soporte para
+PC, tabletas y dispositivos móviles. Además, se implementarán características como
+guardado en la nube, compatibilidad multijugador cooperativo y actualizaciones periódicas para garantizar una experiencia de
+juego fluida y atractiva.

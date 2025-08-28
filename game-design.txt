@@ -11,8 +11,14 @@ El protagonista de esta aventura es Alex, un/a joven de cabello castaño y mirad
 deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a
 los jugadores conceptos clave de historia.
 
-El jugador podrá [MECÁNICA 1], para avanzar deberá [MECÁNICA 2] y los desafíos
-incluirán [TIPO DE DESAFÍOS]
+El jugador podrá explorar mapas interactivos, para avanzar deberá resolver acertijos históricos y los desafíos
+incluirán batallas estratégicas, cuestionarios de conocimiento y misiones de investigación.
+Los estudiantes avanzarán mediante un sistema de niveles y puntos de experiencia. Cada nivel representa un período histórico, y los jugadores recibirán retroalimentación inmediata sobre su
+desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
+Los jugadores aprenderán las causas y consecuencias de eventos históricos mediante misiones narrativas. Se reforzará
+la comprensión de personajes y culturas a través de minijuegos de asociación y memoria, y las evaluaciones se realizarán mediante
+cuestionarios interactivos y reportes automáticos, lo que permitirá a los profesores y estudiantes medir el progreso de
+manera efectiva.
 
 El juego se desarrollará usando Unity y tendrá soporte para
 PC, tabletas y dispositivos móviles. Además, se implementarán características como

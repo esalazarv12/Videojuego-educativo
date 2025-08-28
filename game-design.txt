@@ -6,11 +6,10 @@ juego está diseñado para combinar diversión y educación, permitiendo que los
 estudiantes adquieran conocimientos de manera natural mientras exploran,
 resuelven problemas y superan obstáculos.
 
-El protagonista de esta aventura es [NOMBRE], un/a [DESCRIPCIÓN FÍSICA Y DE
-PERSONALIDAD]. [NOMBRE] es un/a [ROL] que ha sido elegido/a para una misión
-única: [OBJETIVO PRINCIPAL]. Con su [CARACTERÍSTICA ESPECIAL], [NOMBRE]
+El protagonista de esta aventura es Alex, un/a joven de cabello castaño y mirada curiosa, valiente y con gran sentido de la justicia. Alex es un/a aprendiz de historiador que ha sido elegido/a para una misión
+única: recuperar los fragmentos de la línea del tiempo, robados por fuerzas oscuras que buscan alterar la historia del mundo. Con su conocimiento creciente y su ingenio, Alex
 deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a
-los jugadores conceptos clave de [MATERIA].
+los jugadores conceptos clave de historia.
 
 El jugador podrá [MECÁNICA 1], para avanzar deberá [MECÁNICA 2] y los desafíos
 incluirán [TIPO DE DESAFÍOS]
